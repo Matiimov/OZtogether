@@ -4,12 +4,16 @@ OZtogether is a SwiftUI iOS app created for **GovHack 2025** to help new arrival
 
 ## Screenshots
 
-<p align="center">
-  <img src="OZtogether/Screenshots/LoginView.png" alt="Login Screen" width="250"/>
-  <img src="OZtogether/Screenshots/HomeView.png" alt="Home Screen" width="250"/>
-  <img src="OZtogether/Screenshots/EventsView.png" alt="Events Screen" width="250"/>
-  <img src="OZtogether/Screenshots/RewardsView.png" alt="Rewards Screen" width="250"/>
-</p>
+<table>
+  <tr>
+    <td align="center"><img src="OZtogether/Screenshots/LoginView.png" alt="Login Screen" width="250"/><br><b>Login Screen</b></td>
+    <td align="center"><img src="OZtogether/Screenshots/HomeView.png" alt="Home Screen" width="250"/><br><b>Home Screen</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="OZtogether/Screenshots/EventsView.png" alt="Events Screen" width="250"/><br><b>Events Screen</b></td>
+    <td align="center"><img src="OZtogether/Screenshots/RewardsView.png" alt="Rewards Screen" width="250"/><br><b>Rewards Screen</b></td>
+  </tr>
+</table>
 
 ## Features
 
