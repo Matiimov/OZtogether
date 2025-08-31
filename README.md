@@ -5,7 +5,7 @@ OZtogether is a SwiftUI iOS app created for **GovHack 2025** to help new arrival
 ## Screenshots
 
 <!-- Replace these placeholders with real screenshots -->
-![Login Screen](docs/images/login.png)
+![Login Screen](OZtogether/Screenshots/LoginView.png)
 ![Home Screen](docs/images/home.png)
 ![Events Screen](docs/images/events.png)
 ![Rewards Screen](docs/images/rewards.png)
